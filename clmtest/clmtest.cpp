@@ -38,5 +38,7 @@ int main()
 	orect.display();
 	orect.add(5, 10.1234);
 	orect.display();
+	orect.add(5, 2);
+	orect.display();
 	return 0;
 }
